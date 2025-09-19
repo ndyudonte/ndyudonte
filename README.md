@@ -21,7 +21,14 @@ Welcome to my cybersecurity portfolio! This repository showcases projects, repor
   - Identified risks of an exposed database server  
   - Provided recommendations to improve security posture
 
+  - [Identify the attack vectors of a USB drive](
 
+
+### 2. Vulnerability Assessment Reports  
+  - [vulnerability assessment for a small business](https://github.com/ndyudonte/vulnerability-assessment-database-server)
+
+  - Identified risks of an exposed database server  
+  - Provided recommendations to improve security posture
 
 
 
