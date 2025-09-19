@@ -1,24 +1,24 @@
-<h1>Hi, I'm Ndy <br/><a href="https://github.com/ndyudonte/ndyudonte">Cybersecurity Analyst</a>, <a href="www.linkedin.com/in/ndiuwem-richardson/">IT Support Specialist</a>
+# 🔐 Cybersecurity Portfolio  
 
-<h2>👨‍💻 Cybersecurity Projects:</h2> 
+Welcome to my cybersecurity portfolio! This repository showcases projects, reports, and hands-on exercises I’ve completed while pursuing the **Google Cybersecurity Professional Certificate** and building my career in IT and cybersecurity.  
 
-  - [vulnerability-assessment-database-server](https://github.com/ndyudonte/vulnerability-assessment-database-server)
+---
 
-<h2>   Certifications
+## 📌 About Me  
+👋 Hi, I’m [Your Name]!  
+- 🎓 Computer Engineering graduate  
+- 💻 IT Support & Hardware background  
+- 🔐 Cybersecurity Enthusiast | Google Cybersecurity Professional Certificate (in progress)  
+- 🌱 Passionate about protecting systems, data, and people from cyber threats  
 
-  - [Google Cybersecurity Professional certificate](https://coursera.org/share/44abd8cc4e6c28571c98552a762dc33b)
-  
-  - [Play It safe](https://coursera.org/share/d4126e57c2545405063bc1792e4866a5)
+---
 
-  - [Conect and protect: Networks and Networks Security](https://coursera.org/share/0378f655dd2fab8749283274e5262314)
-    
-  - [Tools of the Trade; Linux and SQL](https://coursera.org/share/77e3fb1aebbfc50d71d30826f9598bd7)
+## 📂 Projects & Reports  
 
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Active Directory](https://www.youtube.com/watch?v=a83ASGn_V_s)
+### 1. Vulnerability Assessment Reports  
+- [Vulnerability Assessment: Public Database Server](./Vulnerability_Assessment_Report.md)  
+  - Identified risks of an exposed database server  
+  - Provided recommendations to improve security posture  
 
 <h2> 🤳 Connect with me:</h2>
 
