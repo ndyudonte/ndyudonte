@@ -1,8 +1,8 @@
-<h1>Hi, I'm Ndy <br/><a href="https://github.com/joshmadakor1">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support Specialist</a>
+<h1>Hi, I'm Ndy <br/><a href="https://github.com/joshmadakor1">Cybersecurity Analyst</a>, <a href="www.linkedin.com/in/ndiuwem-richardson/">IT Support Specialist</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [vulnerability-assessment-database-server](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [vulnerability-assessment-database-server](https://github.com/ndyudonte/vulnerability-assessment-database-server)
 
 <h2>   Certifications
 
