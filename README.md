@@ -19,7 +19,21 @@ Welcome to my cybersecurity portfolio! This repository showcases projects, repor
   - [Vulnerability Assessment Report](https://github.com/ndyudonte/vulnerability-assessment-database-server)
 
   - Identified risks of an exposed database server  
-  - Provided recommendations to improve security posture  
+  - Provided recommendations to improve security posture
+
+
+
+
+
+
+## 🚀 Goals  
+This portfolio will grow over time as I complete labs, assessments and real-world case studies.  
+- ✅ Share hands-on projects from the Google Cybersecurity Professional Certificate  
+- ✅ Demonstrate skills in **risk analysis, incident response, and security monitoring**  
+- ✅ Prepare for roles in IT Support, Cybersecurity Analysis, or related fields  
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -28,6 +42,10 @@ Welcome to my cybersecurity portfolio! This repository showcases projects, repor
 - [LinkedIn](https://www.linkedin.com/in/ndiuwem-richardson)
 
 - GitHub: [ndyudonte](https://github.com/ndyudonte/ndyudonte)
+
+
+
+⭐️ *Thanks for visiting my portfolio — stay tuned for more updates as I grow my cybersecurity journey!*
 
 
 
