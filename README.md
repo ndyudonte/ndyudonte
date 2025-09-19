@@ -4,7 +4,7 @@
 
   - [vulnerability-assessment-database-server](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>Certifications
+<h2>   Certifications
 
   - [Google Cybersecurity Professional certificate](https://coursera.org/share/44abd8cc4e6c28571c98552a762dc33b)
   
@@ -22,13 +22,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [email]:ndyrichardson@yahoo.com
+
+
 [linkedin]: www.linkedin.com/in/ndiuwem-richardson
+
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
