@@ -16,7 +16,7 @@ Welcome to my cybersecurity portfolio! This repository showcases projects, repor
 ## 📂 Projects & Reports  
 
 ### 1. Vulnerability Assessment Reports  
-  - [Vulnerability Assessment Report](https://github.com/ndyudonte/vulnerability-assessment-database-server)
+  - [vulnerability assessment for a small business](https://github.com/ndyudonte/vulnerability-assessment-database-server)
 
   - Identified risks of an exposed database server  
   - Provided recommendations to improve security posture
