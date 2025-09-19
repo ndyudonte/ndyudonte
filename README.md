@@ -22,8 +22,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-- [Email](ndyrichardson@yahoo.com)  
+- [Email](mailto:ndyrichardson@yahoo.com)
 
 - GitHub: [ndyudonte](https://github.com/ndyudonte/ndyudonte)
 
