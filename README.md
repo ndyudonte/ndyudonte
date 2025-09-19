@@ -27,7 +27,7 @@
 
 - GitHub: [ndyudonte](https://github.com/ndyudonte/ndyudonte)
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
+- [LinkedIn](www.linkedin.com/in/ndiuwem-richardson) 
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
