@@ -7,8 +7,10 @@
 <h2>Certifications
 
   - [Google Cybersecurity Professional certificate](https://coursera.org/share/44abd8cc4e6c28571c98552a762dc33b)
-  - (https://coursera.org/share/d4126e57c2545405063bc1792e4866a5)
+  
+  - [Play It safe](https://coursera.org/share/d4126e57c2545405063bc1792e4866a5)
 
+  - [Conect and protect: Networks and Networks Security](https://coursera.org/share/0378f655dd2fab8749283274e5262314)
 
 
 
