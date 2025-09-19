@@ -6,7 +6,8 @@
 
 <h2>Certifications
 
-  - [Google Cybersecurity Professional certificate](https://coursera.org/share/44abd8cc4e6c28571c98552a762dc33b_V_s)
+  - [Google Cybersecurity Professional certificate](https://coursera.org/share/44abd8cc4e6c28571c98552a762dc33b)
+  - (https://coursera.org/share/d4126e57c2545405063bc1792e4866a5)
 
 
 
