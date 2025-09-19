@@ -16,7 +16,7 @@ Welcome to my cybersecurity portfolio! This repository showcases projects, repor
 ## 📂 Projects & Reports  
 
 ### 1. Vulnerability Assessment Reports  
-  - [Vulnerability Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Report](https://github.com/ndyudonte/vulnerability-assessment-database-server)
 
   - Identified risks of an exposed database server  
   - Provided recommendations to improve security posture  
