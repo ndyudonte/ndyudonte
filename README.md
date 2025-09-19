@@ -1,11 +1,11 @@
 # 🔐 Cybersecurity Portfolio  
 
-Welcome to my cybersecurity portfolio! This repository showcases projects, reports, and hands-on exercises I’ve completed while pursuing the **Google Cybersecurity Professional Certificate** and building my career in IT and cybersecurity.  
+Welcome to my cybersecurity portfolio! This repository showcases projects, reports and hands-on exercises I’ve completed while pursuing the **Google Cybersecurity Professional Certificate** and building my career in IT and cybersecurity.  
 
 ---
 
 ## 📌 About Me  
-👋 Hi, I’m [Your Name]!  
+👋 Hi, I’m Ndiuwem Richardson  
 - 🎓 Computer Engineering graduate  
 - 💻 IT Support & Hardware background  
 - 🔐 Cybersecurity Enthusiast | Google Cybersecurity Professional Certificate (in progress)  
