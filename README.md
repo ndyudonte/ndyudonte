@@ -12,7 +12,7 @@
 
   - [Conect and protect: Networks and Networks Security](https://coursera.org/share/0378f655dd2fab8749283274e5262314)
     
-  - [Tools of the Trade; Linux and SQL]()https://coursera.org/share/77e3fb1aebbfc50d71d30826f9598bd7
+  - [Tools of the Trade; Linux and SQL](https://coursera.org/share/77e3fb1aebbfc50d71d30826f9598bd7)
 
 
 
