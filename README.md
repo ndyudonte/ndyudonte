@@ -22,9 +22,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [email]:(ndyrichardson@yahoo.com)
 
-- GitHub: [YourUsername](https://github.com/ndyudonte/ndyudonte)  
+- [Email](ndyrichardson@yahoo.com)  
+
+- GitHub: [ndyudonte](https://github.com/ndyudonte/ndyudonte)  
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
