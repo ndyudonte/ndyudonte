@@ -1,4 +1,4 @@
- 🔐 Cybersecurity Portfolio  
+# 🔐 Cybersecurity Portfolio  
 
 Welcome to my cybersecurity portfolio! This repository showcases projects, reports and hands-on exercises I’ve completed while pursuing the **Google Cybersecurity Professional Certificate** and building my career in IT and cybersecurity.  
 
@@ -15,7 +15,7 @@ Welcome to my cybersecurity portfolio! This repository showcases projects, repor
 
 ## 📂 Projects & Reports  
 
-1. Vulnerability Assessment Reports  
+### 1. Vulnerability Assessment Reports  
   - [Vulnerability Assessment Report](https://github.com/ndyudonte/vulnerability-assessment-database-server)
 
   - Identified risks of an exposed database server  
