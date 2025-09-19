@@ -25,16 +25,15 @@
 
 - [Email](ndyrichardson@yahoo.com)  
 
-- GitHub: [ndyudonte](https://github.com/ndyudonte/ndyudonte)  
+- GitHub: [ndyudonte](https://github.com/ndyudonte/ndyudonte)
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[email]:ndyrichardson@yahoo.com
-
-
-[linkedin]: www.linkedin.com/in/ndiuwem-richardson
+[linkedin]:(www.linkedin.com/in/ndiuwem-richardson)
 
 
 <!--
